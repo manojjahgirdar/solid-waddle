@@ -5,4 +5,9 @@
          <lastmod>2022-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://ibm.github.io/mkdocs-oc-pipeline/docs/trustedai/</loc>
+         <lastmod>2022-10-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
